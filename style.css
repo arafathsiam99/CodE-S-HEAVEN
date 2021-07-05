@@ -1,0 +1,66 @@
+body{
+    font-family: 'Secular One', sans-serif;
+    background-color: rgb(174, 233, 235);
+    margin: 0;
+}
+.top-color{
+    color: rgb(226, 71, 71);
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 70px;
+    color: rgb(19, 2, 14);
+}
+.head-pic{
+    width: 100%;
+    height: 450px;
+    
+}
+.flex-content{
+    display: flex;
+}
+.head-site{
+    width: 100%;
+    margin: auto;
+    padding: 50px;
+}
+
+.head-site img{
+    width: 100%;
+    
+}
+.contact{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(196, 65, 65),rgb(175, 204, 137));
+    font-size: 22px;
+    padding: 5px;
+}
+  
+a:hover{
+    color: rgb(246, 247, 246);
+}
+p{
+    font-size: 20px;
+}
+.orange-tomato{
+    color: rgb(226, 71, 71);
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    font-size: 15px;
+}
+.foot-color{
+    color: rgb(226, 71, 71);
+    font-size: 20px;
+}
+
+
